@@ -29,7 +29,7 @@ jobs:
     env:
       libraryName: Model-Predictive-Control
       cmakeInstallationPath: Model-Predictive-Control-installation
-      tagName: cbecb247c3a7c744f9224d2736767dcb8dbdeb734
+      tagName: becb247c3a7c744f9224d2736767dcb8dbdeb734
     steps:
     
       - uses: actions/checkout@v4
